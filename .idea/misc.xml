@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Media/Documents/AndroidSudioProjectjects/naitve/ToDo/app/src/main/res/layout/activity_home.xml" value="0.26197916666666665" />
+        <entry key="..\:/Media/Documents/AndroidSudioProjectjects/naitve/ToDo/app/src/main/res/layout/note_item_layout.xml" value="0.2537688442211055" />
+        <entry key="..\:/Media/Documents/AndroidSudioProjectjects/naitve/Todo/app/src/main/res/layout/activity_note_details.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/drawable/grey_border_bottom.xml" value="0.154" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/layout/activity_note_details.xml" value="0.1" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/layout/fragment_search.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/layout/note_item_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/menu/bottom_app_bar.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/menu/note_details_top_app_bar.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.141" />
+        <entry key="..\:/Users/Abdallah Ehab/Desktop/ToDo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.102" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
